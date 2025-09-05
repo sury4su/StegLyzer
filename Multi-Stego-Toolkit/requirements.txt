@@ -1,0 +1,11 @@
+# Required for image steganography (LSB)
+Pillow
+
+# For audio steganography using ID3 tags
+mutagen
+
+# For video steganography using FFmpeg
+ffmpeg-python
+
+# Optional: If you ever extract EXIF metadata
+piexif
